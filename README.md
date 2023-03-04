@@ -3,7 +3,7 @@
 
 - I’m currently enrolled on a Masters program on **Theoretical Physics.**
 
-- Feel free to check my CV <p><a href="https://drive.google.com/file/d/1fduBrN5NedT3weDXgwaxABvL6REDbx0D/view?usp=sharinghttps://drive.google.com/file/d/1fduBrN5NedT3weDXgwaxABvL6REDbx0D/view?usp=sharing">here!</a></p>
+- Feel free to check my CV <a href="https://drive.google.com/file/d/1fduBrN5NedT3weDXgwaxABvL6REDbx0D/view?usp=sharinghttps://drive.google.com/file/d/1fduBrN5NedT3weDXgwaxABvL6REDbx0D/view?usp=sharing">here!</a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
