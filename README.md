@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! Im Cano Jones, Alejandro</h1>
-<h3 align="center">I am a physics student interested on fundamental theories and computability.</h3>
+<h3 align="center">I am a physics student interested in fundamental theories and computability.</h3>
 
-- I’m currently enrolled on a Masters program on **Theoretical Physics.**
+- I’m currently enrolled in a Masters program on **Theoretical Physics.**
 
 - Feel free to check my CV <a href="https://drive.google.com/file/d/1fduBrN5NedT3weDXgwaxABvL6REDbx0D/view?usp=sharinghttps://drive.google.com/file/d/1fduBrN5NedT3weDXgwaxABvL6REDbx0D/view?usp=sharing">here!</a></p>
 <p align="left">
