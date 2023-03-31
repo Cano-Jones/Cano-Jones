@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! Im Cano Jones, Alejandro</h1>
+<h1 align="center">Hello World! I'm Cano Jones, Alejandro</h1>
 <h3 align="center">I am a physics student interested in fundamental theories and computability.</h3>
 
 - I’m currently enrolled in a Masters program on **Theoretical Physics.**
