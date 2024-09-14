@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! I'm Cano Jones, Alejandro</h1>
 <h3 align="center"> Independent researcher with a M.Sc in Theoretical Physics</h3>
 
-- Feel free to check my CV <a href="https://drive.google.com/file/d/1fduBrN5NedT3weDXgwaxABvL6REDbx0D/view?usp=sharinghttps://drive.google.com/file/d/1fduBrN5NedT3weDXgwaxABvL6REDbx0D/view?usp=sharing">here!</a></p>
+- Feel free to check my CV <a href="[https://drive.google.com/file/d/1fduBrN5NedT3weDXgwaxABvL6REDbx0D/view?usp=sharinghttps://drive.google.com/file/d/1fduBrN5NedT3weDXgwaxABvL6REDbx0D/view?usp=sharing](http://canojones.quickconnect.to/d/s/107F7bor5IXNgs5lRJgXv7MNE6rAxWzC/h1jYxrYxNnAqKzpUZM0xVPYo8UVULM5m-PrCgePhoqws)">here!</a></p>
 <p align="left">
 </p>
 
