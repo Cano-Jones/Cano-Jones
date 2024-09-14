@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! I'm Cano Jones, Alejandro</h1>
 <h3 align="center"> Independent researcher with a M.Sc in Theoretical Physics</h3>
 
-- Feel free to check my CV <a href="https://www.w3schools.com/"here!</a>></p>
+- Feel free to check my CV <a href="https://www.w3schools.com/">here!</a>></p>
 <p align="left">
 </p>
 
